@@ -1,7 +1,7 @@
 MongoDb Database:
-	username=buddhima21 
-	password=5I0yMZAGvFLoFlbR
-	string path=mongodb+srv://buddhima21:5I0yMZAGvFLoFlbR@cluster0.rargxr0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+	username=
+	password=
+	string path=m
 
 Client application:
 	start with npm start
